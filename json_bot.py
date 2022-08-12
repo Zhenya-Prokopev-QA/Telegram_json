@@ -5,7 +5,7 @@
 from telebot import TeleBot, types
 import json
 
-bot = TeleBot(token='Вставь свой токен', parse_mode='html') # создание бота
+bot = TeleBot(token='5406244739:AAE26iq8eGwO74omfNmzNugc5MROXSjjeOw', parse_mode='html') # создание бота
 
 
 # обработчик команды '/start'
